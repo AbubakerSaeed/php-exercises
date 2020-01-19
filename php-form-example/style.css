@@ -1,0 +1,14 @@
+body {
+  display: grid;
+  place-content: center;
+
+  min-height: 100vh;
+  margin: 0;
+  padding: 20px;
+  box-sizing: border-box;
+
+  color: lightblue;
+  background: #000;
+
+  font-family: "Segoe UI";
+}
